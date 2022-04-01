@@ -1,0 +1,10 @@
+E:\Projetos\Termoo\bin\Debug\Termoo.exe.config
+E:\Projetos\Termoo\bin\Debug\Termoo.exe
+E:\Projetos\Termoo\bin\Debug\Termoo.pdb
+E:\Projetos\Termoo\obj\Debug\Termoo.csproj.AssemblyReference.cache
+E:\Projetos\Termoo\obj\Debug\Termoo.Form1.resources
+E:\Projetos\Termoo\obj\Debug\Termoo.Properties.Resources.resources
+E:\Projetos\Termoo\obj\Debug\Termoo.csproj.GenerateResource.cache
+E:\Projetos\Termoo\obj\Debug\Termoo.csproj.CoreCompileInputs.cache
+E:\Projetos\Termoo\obj\Debug\Termoo.exe
+E:\Projetos\Termoo\obj\Debug\Termoo.pdb
